@@ -8,7 +8,7 @@
 - Generally look “spammy”
 - Domain squatters
 - People looking to capitalize on domain typos
-- Cryptominers, SSL Proxies, Bad IP's, Bad Actors, Bad Internet Places, TOR, Spammers, Spammers and More Spammers, Malware, etc etc. Places you shouldnt go to anyway. 
+- Cryptominers, SSL Proxies, Bad IP's, Bad Actors, Bad Internet Places, TOR, Forum Spammers, Mail Spammers and More Spammers, Malware, Data Harvesters, People who want your data, Exfiltration domains etc etc. Places you shouldnt go to anyway. 
 
 This will work well with domain blocking services, Use this to create iptables rules or use in your own projects/filters but I suggest using this with PiHole.
 
