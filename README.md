@@ -14,6 +14,10 @@ This will work well with domain blocking services, Use this to create iptables r
 
 https://discourse.pi-hole.net/t/how-do-i-add-additional-block-lists-to-pi-hole/259 
 
+File Updated here.
+
+http://www.jamessawyer.co.uk/MASTER.txt
+
 ## This is quite a new idea. There are bound to be a lot of false positives in here, Please contact whitelist@jamesawyer.co.uk
 
 ## ***THIS IS FOR PERSONAL USE ONLY***If you wish to discuss commercial opportunitys please contact commercial@jamessawyer.co.uk
