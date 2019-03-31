@@ -18,7 +18,7 @@ File Updated here.
 
 http://www.jamessawyer.co.uk/MASTER.txt
 
-## This is quite a new idea. There are bound to be a lot of false positives in here, Please contact whitelist@jamesawyer.co.uk
+## This is quite a new idea. There are bound to be a small few false positives in here, Please contact whitelist@jamesawyer.co.uk
 
 ## ***THIS IS FOR PERSONAL USE ONLY***
 
