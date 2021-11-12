@@ -18,10 +18,6 @@ File Updated here.
 
 http://www.jamessawyer.co.uk/MASTER.txt
 
-## This is quite a new idea. There are bound to be a small few false positives in here, Please contact whitelist@jamesawyer.co.uk
-
-## ***THIS IS FOR PERSONAL USE ONLY***
-
-## If you wish to discuss commercial opportunitys please contact commercial@jamessawyer.co.uk
+## This is quite a new idea. There are bound to be a small few false positives in here, Please contact whitelist@jamessawyer.co.uk
 
 ## For anything else, Press etc please contact general@jamessawyer.co.uk
